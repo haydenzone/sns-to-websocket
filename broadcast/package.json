@@ -1,0 +1,11 @@
+{
+  "name": "broadcast",
+  "version": "1.0.0",
+  "description": "Broadcast message to all connected clients",
+  "main": "src/app.js",
+  "author": "Hayden Waisanen",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.434.0"
+  }
+}
