@@ -1,5 +1,5 @@
 # sns-to-websocket
-Simple serverless application that takes sns notifications and sends them to websocket connections
+Simple serverless application that takes sns notifications and broadcasts them to websocket connections
 
 # Deploying to your account
 
